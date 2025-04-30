@@ -10,7 +10,7 @@ The **Smart Walking Stick** is a compact, affordable, and real-time health monit
 ---
 
 🚀 Tech Stack
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Embedded C++" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/3470536?s=200&v=4" alt="MicroPython" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://miro.medium.com/v2/resize:fit:320/1*F98YvY3iz1L-YF0TzGH3kw.png" alt="TinyML" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50"/> </p>
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Embedded C++" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://micropython.org/static/img/micropython-logo.png" alt="MicroPython" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Edge_AI_logo.png" alt="Edge AI" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50"/> </p>
 
 ---
 
