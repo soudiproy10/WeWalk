@@ -9,18 +9,8 @@ The **Smart Walking Stick** is a compact, affordable, and real-time health monit
 
 ---
 
-## 🚀 Tech Stack
-
-| Technology | Logo |
-|------------|------|
-| **Embedded C++** | ![Embedded C++](https://img.shields.io/badge/C%2B%2B-Embedded-informational?logo=c%2B%2B&logoColor=white&color=blue) |
-| **Python** | ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) |
-| **MicroPython** | ![MicroPython](https://img.shields.io/badge/MicroPython-Firmware-brightgreen?logo=python&logoColor=white) |
-| **TinyML** | ![TinyML](https://img.shields.io/badge/TinyML-Edge%20AI-orange?logo=tensorflow&logoColor=white) |
-| **TensorFlow** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Model-informational?logo=tensorflow&logoColor=white&color=ff6f00) |
-| **Keras** | ![Keras](https://img.shields.io/badge/Keras-Neural%20Nets-red?logo=keras&logoColor=white) |
-
-> *(Used for pre-trained activity classification model and signal processing logic.)*
+🚀 Tech Stack
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Embedded C++" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/3470536?s=200&v=4" alt="MicroPython" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://miro.medium.com/v2/resize:fit:320/1*F98YvY3iz1L-YF0TzGH3kw.png" alt="TinyML" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50"/> </p>
 
 ---
 
@@ -46,16 +36,16 @@ The **Smart Walking Stick** is a compact, affordable, and real-time health monit
 
 ---
 
-## 🛠️ Hardware Used
+🛠️ Hardware Used
 
-| Component        | Description                          |
-|------------------|--------------------------------------|
-| ESP8266 (NodeMCU) | Wi-Fi microcontroller               |
-| MPU6050          | 3-axis Accelerometer + Gyroscope     |
-| MAX30102         | Pulse & SpO₂ sensor                  |
-| Neo-6M GPS       | GPS Module for tracking              |
-| Buzzer + LED     | Local alert system                   |
-| 18650 Battery    | Power source                         |
+Component	Description
+ESP8266	Wi-Fi microcontroller (NodeMCU board)
+MPU6050	3-axis Accelerometer + Gyroscope
+MAX30102	Pulse & SpO₂ sensor
+Neo-6M GPS	GPS Module for real-time tracking
+Laser Module	Laser emitter for obstacle awareness / direction indicator
+Buzzer + LED	Local alert and status indication
+Rechargeable Battery	Power source for portability and reuse
 
 ---
 
