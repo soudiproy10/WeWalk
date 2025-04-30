@@ -9,16 +9,8 @@ The **Smart Walking Stick** is a compact, affordable, and real-time health monit
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Embedded C++" height="50" style="margin: 0 15px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" height="50" style="margin: 0 15px;"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/1200px-Micropython-logo.svg.png" alt="MicroPython" height="65" style="margin: 0 15px;"/> 
-  <img src="https://cdn.prod.website-files.com/657fc5d7afa77574fc1a1f61/663d9a02aa09856cc50d2040_tinyML.png" alt="Edge AI" height="65" style="margin: 0 15px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" style="margin: 0 15px;"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50" style="margin: 0 15px;"/> 
-</p>
+🚀 Tech Stack
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Embedded C++" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/1200px-Micropython-logo.svg.png" alt="MicroPython" height="65"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.prod.website-files.com/657fc5d7afa77574fc1a1f61/663d9a02aa09856cc50d2040_tinyML.png" alt="Edge AI" height="65"/> &nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50"/> &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50"/> </p> 
 
 ---
 
