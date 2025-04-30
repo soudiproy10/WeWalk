@@ -55,12 +55,12 @@ Rechargeable Battery	Power source for portability and reuse
 📂 SmartWalkingStick
 ├── 📄 README.md
 ├── 📁 src/
-│   ├── main.ino         # Arduino code for ESP8266
-│   └── model.tflite     # TensorFlow Lite model for motion detection
+│   ├── main.ino         
+│   └── model.tflite    
 ├── 📁 docs/
-│   └── schematic.pdf    # Circuit Diagram
+│   └── schematic.pdf   
 └── 📁 assets/
-    └── demo.gif         # Demo visuals
+    └── demo.gif         
 ```
 
 ---
