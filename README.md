@@ -28,7 +28,7 @@ The **Smart Walking Stick** is a compact, affordable, and real-time health monit
 
 ## 🧠 How It Works
 
-- **MPU6050**: Detects falls or unusual motion (X-axis is faulty, Y/Z axes used)  
+- **MPU6050**: Detects falls or unusual motion
 - **MAX30102**: Monitors pulse rate and SpO₂  
 - **Neo-6M GPS**: Tracks live location  
 - **ESP8266**: Controls the logic and communication  
