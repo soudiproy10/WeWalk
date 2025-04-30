@@ -1,11 +1,11 @@
 # Smart Walking Stick for Elderly 👨‍🦯 
-A life-saving assistive device that detects falls, monitors vital signs, and sends real-time alerts with GPS location to caregivers — all powered by ESP8266 and smart sensors.
+A life-saving assistive device that detects falls, monitors vital signs like unconsciousness , and sends real-time alerts with GPS location to caregivers — all powered by ES32 and smart sensors.
 
 ---
 
 ## 🔍 Overview
 
-The **Smart Walking Stick** is a compact, affordable, and real-time health monitoring system designed especially for elderly individuals. It continuously monitors **movement**, **falls**, **pulse rate**, **SpO₂**, and **location**, triggering alerts and sharing coordinates if abnormalities are detected.
+The **Smart Walking Stick** is a compact, affordable, and real-time health monitoring system designed especially for elderly individuals. It continuously monitors **unconsciousness** , **movement**, **falls**, **pulse rate**, **SpO₂**, and **location**, triggering alerts and sharing coordinates if abnormalities are detected.
 
 ---
 
