@@ -54,13 +54,21 @@ Rechargeable Battery	Power source for portability and reuse
 ```
 📂 SmartWalkingStick
 ├── 📄 README.md
-├── 📁 src/
-│   ├── main.ino         
-│   └── model.tflite    
-├── 📁 docs/
-│   └── schematic.pdf   
-└── 📁 assets/
-    └── demo.gif         
+├── 📁 DOCS/
+│   ├── Circuit_Diagram.png      
+│   └── Flowchart
+│   └── .pdf   
+├── 📁 DataSets/
+│   └── Dhrubo.csv
+│   └── Arya.csv
+└── 📁 Data_Colection/
+|    └── MPU.py
+├── 📁 Model_Training/
+│   └── ML.ipynb
+├── 📁 Models/
+│   └── .h5
+│   └── .tflite
+│   └── .h   
 ```
 
 ---
