@@ -68,7 +68,9 @@ Rechargeable Battery	Power source for portability and reuse
 ├── 📁 Models/
 │   └── .h5
 │   └── .tflite
-│   └── .h   
+│   └── .h
+├── 📁 Deployment/
+│   └── .esp32_model.ino
 ```
 
 ---
