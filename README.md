@@ -88,6 +88,6 @@ Rechargeable Battery	Power source for portability and reuse
 ## 🤝 Contributors
 
 - **Dhrubo Ghosh** — Embedded Systems, Machine Learning, Firmware, and System Logic  
-- **Arya Das** — Machine Learning, Algorithms , Problem Solving
+- **Arya Das** — Machine Learning, Algorithms , Model Training
 
 ---
