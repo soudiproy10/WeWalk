@@ -89,5 +89,6 @@ Rechargeable Battery	Power source for portability and reuse
 
 - **Dhrubo Ghosh** — Embedded Systems, Machine Learning, Firmware, and System Logic  
 - **Arya Das** — Machine Learning, Algorithms , Model Training
+- **Soudip Roy** — Circuit Desgin, Hardware modeling , System Logic, Procurement
 
 ---
